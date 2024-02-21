@@ -1,0 +1,14 @@
+body {
+  background-color: hotpink;
+}
+.firstp {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+hr {
+  width: 30%;
+  border: 3px dotted white;
+  border-bottom: none;
+}
